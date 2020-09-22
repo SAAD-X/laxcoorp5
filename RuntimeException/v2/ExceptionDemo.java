@@ -96,7 +96,6 @@ public class ExceptionDemo
 		*/
 		
 		System.out.println("End");
-		
-		
+			
 	}
 }
