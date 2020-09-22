@@ -98,7 +98,7 @@ public class ExceptionDemo
 
 /*
 
-InputMismatchException		-> 	null
+InputMismatchException		        -> 	null
 ArithmeticException			->	/ by zero
 NullPointerException 			->	null
 NumberFormatException			->	For input string "12gf22"
