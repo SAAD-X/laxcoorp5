@@ -102,7 +102,7 @@ InputMismatchException		        -> 	null
 ArithmeticException			->	/ by zero
 NullPointerException 			->	null
 NumberFormatException			->	For input string "12gf22"
-ArrayIndexOutOfBoundsException->	3 (The number of index for which the exception has occured)
+ArrayIndexOutOfBoundsException          ->	3 (The number of index for which the exception has occured)
 
 */
 
