@@ -1,7 +1,7 @@
 import java.lang.*;
 import java.io.*;
 
-//readLine() is a method of BufferedReader
+//readLine() is a method of BufferedReader.
 //So, we need an object of BufferedReader class to call that method.
 //But, to create an object of BufferedReader, we need an object of InputStreamReader.
 //The parameterized constructor of InputStreamReader takes "System.in" as its parameter.
