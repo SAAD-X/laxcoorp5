@@ -107,7 +107,7 @@ class Student
 		System.out.println("Student's Phone Number : " +phonenumber);
 	}
 }
-public class Student3
+public class Student
 {
 
 	public static void main(String[] args) 
