@@ -56,7 +56,7 @@ class Product
 		System.out.println("This is the show function for product" + i);
 	}
 }
-public class input
+public class Input
 {
 	public static void main(String[] args) 
 	{
